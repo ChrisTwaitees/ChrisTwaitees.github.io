@@ -1,33 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello Friend</title>
+    <title>Posts on Chris Thwaites</title>
     
     
     
-    <link>/post/</link>
-    <description>Recent content in Posts on Hello Friend</description>
+    <link>https://christwaitees.github.io/post/</link>
+    <description>Recent content in Posts on Chris Thwaites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 16:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Nov 2020 19:14:34 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christwaitees.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello Friend</title>
-      <link>/post/first_post/</link>
-      <pubDate>Sat, 28 Nov 2020 16:20:34 +0000</pubDate>
+      <title>OpenGL Screen Space Reflections</title>
+      <link>https://christwaitees.github.io/post/opengl_ss_reflections/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
       
-      <guid>/post/first_post/</guid>
+      <guid>https://christwaitees.github.io/post/opengl_ss_reflections/</guid>
       <description>
         
-          &lt;img src=&#34;/img/by_mari_k_artstation.jpg&#34;/&gt;
+          &lt;img src=&#34;https://christwaitees.github.io/img/SS_reflections.png&#34;/&gt;
           
         
         
         
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          A deep dive into an OpenGL implementation of Screen Space Reflections.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>OpenGL Shaders &amp; C&#43;&#43;</title>
+      <link>https://christwaitees.github.io/post/opengl_shaders_cpp/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
+      
+      <guid>https://christwaitees.github.io/post/opengl_shaders_cpp/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://christwaitees.github.io/img/opengl_logo.png&#34;/&gt;
+          
+        
+        
+        
+          A bit of a deep dive into OpenGL shaders in C++. Using a single file with preprocessor-style syntax to save time when authoring.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>OpenGL Skeletal Animation</title>
+      <link>https://christwaitees.github.io/post/opengl_animation/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
+      
+      <guid>https://christwaitees.github.io/post/opengl_animation/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://christwaitees.github.io/img/skeleton.gif&#34;/&gt;
+          
+        
+        
+        
+          A deep dive into an OpenGL implementation of skeletal animation.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>OpenGL Voxel Global Illumination</title>
+      <link>https://christwaitees.github.io/post/opengl_voxel_gi/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
+      
+      <guid>https://christwaitees.github.io/post/opengl_voxel_gi/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://christwaitees.github.io/img/voxelGI.png&#34;/&gt;
+          
+        
+        
+        
+          A deep dive into an OpenGL implementation of Voxel Global Illumination for Real-time rendering.
           
         
         </description>

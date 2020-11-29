@@ -1,33 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend</title>
+    <title>Chris Thwaites</title>
     
     
     
-    <link>/</link>
-    <description>Recent content on Hello Friend</description>
+    <link>https://christwaitees.github.io/</link>
+    <description>Recent content on Chris Thwaites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 16:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Nov 2020 19:14:34 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christwaitees.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello Friend</title>
-      <link>/post/first_post/</link>
-      <pubDate>Sat, 28 Nov 2020 16:20:34 +0000</pubDate>
+      <title>C# WPF Fronted C&#43;&#43; Backend</title>
+      <link>https://christwaitees.github.io/projects/wpf/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
       
-      <guid>/post/first_post/</guid>
+      <guid>https://christwaitees.github.io/projects/wpf/</guid>
       <description>
         
-          &lt;img src=&#34;/img/by_mari_k_artstation.jpg&#34;/&gt;
+          &lt;img src=&#34;https://christwaitees.github.io/img/csharp.png&#34;/&gt;
           
         
         
         
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          Resources for learning C#.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>OpenGL Screen Space Reflections</title>
+      <link>https://christwaitees.github.io/post/opengl_ss_reflections/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
+      
+      <guid>https://christwaitees.github.io/post/opengl_ss_reflections/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://christwaitees.github.io/img/SS_reflections.png&#34;/&gt;
+          
+        
+        
+        
+          A deep dive into an OpenGL implementation of Screen Space Reflections.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>OpenGL Shaders &amp; C&#43;&#43;</title>
+      <link>https://christwaitees.github.io/post/opengl_shaders_cpp/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
+      
+      <guid>https://christwaitees.github.io/post/opengl_shaders_cpp/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://christwaitees.github.io/img/opengl_logo.png&#34;/&gt;
+          
+        
+        
+        
+          A bit of a deep dive into OpenGL shaders in C++. Using a single file with preprocessor-style syntax to save time when authoring.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>OpenGL Skeletal Animation</title>
+      <link>https://christwaitees.github.io/post/opengl_animation/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
+      
+      <guid>https://christwaitees.github.io/post/opengl_animation/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://christwaitees.github.io/img/skeleton.gif&#34;/&gt;
+          
+        
+        
+        
+          A deep dive into an OpenGL implementation of skeletal animation.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>OpenGL Voxel Global Illumination</title>
+      <link>https://christwaitees.github.io/post/opengl_voxel_gi/</link>
+      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
+      
+      <guid>https://christwaitees.github.io/post/opengl_voxel_gi/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://christwaitees.github.io/img/voxelGI.png&#34;/&gt;
+          
+        
+        
+        
+          A deep dive into an OpenGL implementation of Voxel Global Illumination for Real-time rendering.
           
         
         </description>
@@ -35,10 +111,10 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://christwaitees.github.io/about/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://christwaitees.github.io/about/</guid>
       <description>
         
           
@@ -47,50 +123,10 @@
         
         
         
-          Welcome! Hi there! I&amp;rsquo;m Chris Thwaites, a technical artist &amp;amp; animator within the video game industry. I love all things code, art and problem solving.
-I&amp;rsquo;m currently working on 3D Rendering Applications outside of working hours, learning more about application architecture, animation and graphics programming. I love contributing towards projects and helping out where I can!
+          Welcome! Hi there! I&amp;rsquo;m Chris Thwaites, a technical artist/animator working within the video game industry. I love all things code, art and problem solving.
+I&amp;rsquo;m currently working on 3D Rendering Applications outside of working hours, learning more about application architecture, animation and graphics programming. I love contributing towards open projects and helping out where I can!
 All views here are my own and do not reflect my employer&amp;rsquo;s.
-Please feel free to reach out via :
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>/showcase/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/showcase/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
+Please feel free to reach out to me via :
           
         
         </description>

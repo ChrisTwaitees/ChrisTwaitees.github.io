@@ -3,40 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-11-28T16:20:34+00:00</lastmod>
+    <loc>https://christwaitees.github.io/projects/wpf/</loc>
+    <lastmod>2020-11-29T19:14:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/first_post/</loc>
-    <lastmod>2020-11-28T16:20:34+00:00</lastmod>
+    <loc>https://christwaitees.github.io/</loc>
+    <lastmod>2020-11-29T19:14:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-11-28T16:20:34+00:00</lastmod>
+    <loc>https://christwaitees.github.io/post/opengl_ss_reflections/</loc>
+    <lastmod>2020-11-29T19:14:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://christwaitees.github.io/post/opengl_shaders_cpp/</loc>
+    <lastmod>2020-11-29T19:14:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christwaitees.github.io/post/opengl_animation/</loc>
+    <lastmod>2020-11-29T19:14:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christwaitees.github.io/post/opengl_voxel_gi/</loc>
+    <lastmod>2020-11-29T19:14:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christwaitees.github.io/post/</loc>
+    <lastmod>2020-11-29T19:14:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christwaitees.github.io/projects/</loc>
+    <lastmod>2020-11-29T19:14:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christwaitees.github.io/about/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/showcase/</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <loc>https://christwaitees.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/archive/</loc>
+    <loc>https://christwaitees.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://christwaitees.github.io/tags/</loc>
   </url>
   
 </urlset>
