@@ -34,82 +34,6 @@
     </item>
     
     <item>
-      <title>OpenGL Screen Space Reflections</title>
-      <link>https://christwaitees.github.io/post/opengl_ss_reflections/</link>
-      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
-      
-      <guid>https://christwaitees.github.io/post/opengl_ss_reflections/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://christwaitees.github.io/img/SS_reflections.png&#34;/&gt;
-          
-        
-        
-        
-          A deep dive into an OpenGL implementation of Screen Space Reflections.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>OpenGL Shaders &amp; C&#43;&#43;</title>
-      <link>https://christwaitees.github.io/post/opengl_shaders_cpp/</link>
-      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
-      
-      <guid>https://christwaitees.github.io/post/opengl_shaders_cpp/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://christwaitees.github.io/img/opengl_logo.png&#34;/&gt;
-          
-        
-        
-        
-          A bit of a deep dive into OpenGL shaders in C++. Using a single file with preprocessor-style syntax to save time when authoring.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>OpenGL Skeletal Animation</title>
-      <link>https://christwaitees.github.io/post/opengl_animation/</link>
-      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
-      
-      <guid>https://christwaitees.github.io/post/opengl_animation/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://christwaitees.github.io/img/skeleton.gif&#34;/&gt;
-          
-        
-        
-        
-          A deep dive into an OpenGL implementation of skeletal animation.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>OpenGL Voxel Global Illumination</title>
-      <link>https://christwaitees.github.io/post/opengl_voxel_gi/</link>
-      <pubDate>Sun, 29 Nov 2020 19:14:34 +0000</pubDate>
-      
-      <guid>https://christwaitees.github.io/post/opengl_voxel_gi/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://christwaitees.github.io/img/voxelGI.png&#34;/&gt;
-          
-        
-        
-        
-          A deep dive into an OpenGL implementation of Voxel Global Illumination for Real-time rendering.
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://christwaitees.github.io/about/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
@@ -124,9 +48,8 @@
         
         
           Welcome! Hi there! I&amp;rsquo;m Chris Thwaites, a technical artist/animator working within the video game industry. I love all things code, art and problem solving.
-I&amp;rsquo;m currently working on 3D Rendering Applications outside of working hours, learning more about application architecture, animation and graphics programming. I love contributing towards open projects and helping out where I can!
+I&amp;rsquo;m currently working on 3D Rendering Applications outside of working hours, learning more about application architecture, animation and graphics programming. I love contributing towards open source projects and helping out where I can!
 All views here are my own and do not reflect my employer&amp;rsquo;s.
-Please feel free to reach out to me via :
           
         
         </description>
